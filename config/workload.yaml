@@ -10,3 +10,4 @@ spec:
       ref:
         branch: main  
       url: https://github.com/terasky-int/ecsdemo-nodejs.git
+      
